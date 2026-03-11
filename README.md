@@ -34,6 +34,13 @@ Displays high-level financial insights:
 * Loan purpose distribution
 * Approval trends by region and employment status
 
+## 🚀 Live Demo
+
+You can access the deployed dashboard here:
+
+🔗 **Live App:**  
+https://ranasaif-ranasaif-creditwise-loan-approval-sys-dashboard-tbwcb3.streamlit.app/
+
 ---
 
 ### 🔍 Exploratory Data Analysis (EDA)
