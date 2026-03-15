@@ -39,7 +39,7 @@ Displays high-level financial insights:
 You can access the deployed dashboard here:
 
 🔗 **Live App:**  
-https://ranasaif-ranasaif-creditwise-loan-approval-sys-dashboard-tbwcb3.streamlit.app/
+https://saifullah857-creditwise-loan-approval-system-w-dashboard-q8oeta.streamlit.app/
 
 ---
 🚀 Live Demo
