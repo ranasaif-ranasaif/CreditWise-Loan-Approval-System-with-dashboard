@@ -168,7 +168,7 @@ Core technologies used in the project:
 ```
 CreditWise-Loan-Approval-System
 │
-├── loan_dashboard.py
+├── dashboard.py
 │      Main Streamlit dashboard application
 │
 ├── data.csv
@@ -188,13 +188,13 @@ CreditWise-Loan-Approval-System
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/CreditWise-Loan-Approval-System.git
+git clone https://github.com/saifullah857/CreditWise-Loan-Approval-System-with-dashboard.git
 ```
 
 Navigate into the project folder:
 
 ```bash
-cd CreditWise-Loan-Approval-System
+cd CreditWise-Loan-System
 ```
 
 Install dependencies:
@@ -210,7 +210,7 @@ pip install streamlit plotly pandas scikit-learn numpy
 Run the Streamlit dashboard:
 
 ```bash
-streamlit run loan_dashboard.py
+streamlit run dashboard.py
 ```
 
 After running, the dashboard will open automatically in your browser.
