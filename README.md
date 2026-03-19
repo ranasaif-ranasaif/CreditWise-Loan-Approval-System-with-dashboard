@@ -1,7 +1,4 @@
-Below is a **more advanced, portfolio-level `README.md`** for your **CreditWise / LoanIQ Loan Approval Intelligence System**.
-It includes **badges, sections, architecture, and professional formatting** suitable for GitHub portfolios.
 
----
 
 # 💳 CreditWise – Loan Approval Intelligence System
 
